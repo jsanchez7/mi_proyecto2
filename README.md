@@ -51,3 +51,5 @@ También es posible crear listas anidadas:
 2. Ashe
   1. ADC
   2. Poca movilidad
+
+Markdown te permite poner [enlaces a página web](http://github.com/milq/lmsgi), incluso sólo poniendo la URL: http://google.com
