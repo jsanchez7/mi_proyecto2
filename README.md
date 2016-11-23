@@ -60,3 +60,8 @@ En Markdown también se pueden poner imágenes:
 
 En Markdown te permite crear tablas:
 
+| Personaje | Posición | Pasiva      |
+| --------- | -------- | ----------- |
+| Tristana  | ADC      | Rango largo |
+| Annie     | Mid      | Stunt       |
+| Garen     | Top      | Ganar vida  |
