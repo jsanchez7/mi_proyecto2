@@ -63,5 +63,7 @@ En Markdown te permite crear tablas:
 | Personaje | Posición | Pasiva      |
 | --------- | -------- | ----------- |
 | Tristana  | ADC      | Rango largo |
-| Annie     | Mid      | Stunt       |
+| Annie     | Mid      | Stun        |
 | Garen     | Top      | Ganar vida  |
+
+También te permite usar <h>código</h> <i>HTML</i>.
