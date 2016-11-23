@@ -86,4 +86,6 @@ Mardkwown te permite crear listas de chequeo:
 - [X] Limones.
 - [ ] Melones.
 
+Permite poner enlaces a videos de Youtube:
+
 [![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
