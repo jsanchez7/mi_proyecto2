@@ -26,3 +26,6 @@ También en Markdown puedes poner código de cualquier lenguaje:
     <p>Text here.</p>
   </body>
 </html>
+```
+
+Además puedes poner código en una misma línea: `git commit -m "corregido fallo 6581"`.
