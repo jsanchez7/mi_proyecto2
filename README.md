@@ -77,3 +77,13 @@ Se pueden poner citas:
 &nbsp;
 
 >  Tenía en su casa una ama que pasaba de los cuarenta, y una sobrina que no llegaba a los veinte, y un mozo de campo y plaza, que así ensillaba el rocín como tomaba la podadera. 
+
+---
+
+Mardkwown te permite crear listas de chequeo:
+
+- [ ] Patatas.
+- [ ] Limones.
+- [X] Pizzas.
+- [ ] Melones.
+- [ ] Agua.
