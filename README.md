@@ -10,3 +10,7 @@
 Esto es un texto normal. Esto es un **texto en negrita**. Esto es un *texto en cursiva*.
 
 Esto es un **texto en negrita y _en cursiva_**, se pueden combinar ambas.
+
+También en Markdown puedes poner código de cualquier lenguaje:
+
+```html
