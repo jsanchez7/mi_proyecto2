@@ -83,7 +83,5 @@ Se pueden poner citas:
 Mardkwown te permite crear listas de chequeo:
 
 - [ ] Patatas.
-- [ ] Limones.
-- [X] Pizzas.
+- [X] Limones.
 - [ ] Melones.
-- [ ] Agua.
