@@ -57,3 +57,6 @@ Markdown te permite poner [enlaces a una página web](http://github.com/milq/lms
 En Markdown también se pueden poner imágenes:
 
 ![Escudo Real Betis](http://e02-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/185.png 'Escudo Real Betis')
+
+En Markdown te permite crear tablas:
+
